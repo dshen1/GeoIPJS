@@ -80,29 +80,29 @@ console.log(mask6);
 
 console.log(geo4);
 
-/\*
- \* {
- \*   network:   '1.3.0.0/16',
- \*   mask:      '0000000100000011',
- \*   continent: 'Asia',
- \*   country:   'China',
- \*   location:  { latitude: 35, longitude: 105 }
- \* }
- \*/
+/*
+ * {
+ *   network:   '1.3.0.0/16',
+ *   mask:      '0000000100000011',
+ *   continent: 'Asia',
+ *   country:   'China',
+ *   location:  { latitude: 35, longitude: 105 }
+ * }
+ */
 
 
 
 console.log(geo6);
 
-/\*
- \* {
- \*   network:   '2a02:8071:a8c::/47',
- \*   mask:      '00101010000000101000000001110001000010101000110',
- \*   continent: 'Europe',
- \*   country:   'Germany',
- \*   location:  { latitude: 51, longitude: 9 }
- \* }
- \*/
+/*
+ * {
+ *   network:   '2a02:8071:a8c::/47',
+ *   mask:      '00101010000000101000000001110001000010101000110',
+ *   continent: 'Europe',
+ *   country:   'Germany',
+ *   location:  { latitude: 51, longitude: 9 }
+ * }
+ */
 ```
 
 
